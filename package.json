@@ -1,0 +1,25 @@
+{
+  "name": "vercel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octaviolucca/vercel-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octaviolucca/vercel-test/issues"
+  },
+  "homepage": "https://github.com/octaviolucca/vercel-test#readme",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
